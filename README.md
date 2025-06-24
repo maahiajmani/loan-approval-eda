@@ -10,7 +10,7 @@ This mini data analysis project explores how factors like:
 
 ### Tools Used:
 - Python (Pandas, Matplotlib)
-- Jupyter Notebook
+- Visual Studio Code
 
 ### Charts Included:
 - Loan Approval Rate by CIBIL Score
